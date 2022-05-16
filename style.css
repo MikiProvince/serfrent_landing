@@ -384,8 +384,9 @@ hr {
     }
     .nav-menu-btn {
         display: block;
+        
         color: var(--white-color);
-        font-size: 2em;
+        font-size: 3em;
         cursor: pointer;
         margin: 20px;
     }
@@ -442,7 +443,7 @@ hr {
 
     .navigation .nav-items a {
         color: var(--dark-color);
-        font-size: 1.5em;
+        font-size: 1.2em;
         margin: 15px 50px;
         transition: 0.3s ease;
         text-shadow: 0 1px 5px rgba(0, 0, 0, 0.116);
