@@ -136,17 +136,6 @@ nav ul li a i {
     overflow: hidden;
 }
 
-.home:before {
-    z-index: 99999;
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 50px;
-    bottom: 0;
-    left: 0;
-    background: linear-gradient(#297fb901, #00375b);
-}
-
 .bg-slider {
     z-index: 990;
     position: relative;
@@ -461,7 +450,7 @@ hr {
     }
 
     .read-btn {
-        font-size: 0.8em;
-        padding: 3px 10px;
+        font-size: 0.7em;
+        padding: 3px 8px;
     }
 }
