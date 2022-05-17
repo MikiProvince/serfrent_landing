@@ -6,6 +6,9 @@
       var swiper2 = new Swiper(".bg-slider", {
         loop: true,
         spaceBetween: 0,
+        navigation: {
+          nextEl: ".swiper-button-next"
+        },
         thumbs: {
           swiper: swiper,
         },
