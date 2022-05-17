@@ -160,7 +160,7 @@ nav ul li a i {
 
 .swiper-slide .text-content {
     position: absolute;
-    top: 25%;
+    top: 22%;
     color: var(--white-color);
     margin: 0 200px;
     transition: .3s ease;
